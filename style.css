@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2? family= Figtree:wght@700;800 & display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Figtree', sans-serif;
+}
+
+body{
+    background-color:hsl(47, 88%, 63%);
+    text-align: center;
+}
+
+.card{
+    background-color: white;
+    width: 370px;
+    height: 510px;
+    margin: auto;
+    margin-top: 200px;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 5px 5px 1px black;
+}
+
+img.ilustration{
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.learning{
+    background-color: hsl(47, 88%, 63%);
+    font-weight: 600;
+    width: 90px;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-top: 5px;
+}
+
+.data{
+    font-weight: 600;
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+
+.title{
+    font-weight: 800;
+    font-size: 22px;
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.principal{
+    color: hsl(0, 0%, 50%);
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.avatar{
+    text-align: left;
+    width: 40px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+#greg{
+    width: 40px;
+}
+
